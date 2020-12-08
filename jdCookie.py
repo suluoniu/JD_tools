@@ -20,8 +20,8 @@ import notification
 ###############################
 # 方案1 本地执行、云服务器、云函数等等   下载到本地，填写参数，执行
 cookies1 = {
-    'pt_key': 'AAJfzr4NADAQ6I0fepktEZDuoYwOau3OTxnZTi0ZrwV5e-yUuziegoA33vrdYD8Aw-1gCFWikOU',  # cookie参数填写，填写完注意不要上传
-    'pt_pin': 'suluoniu',
+    'pt_key': '',  # cookie参数填写，填写完注意不要上传
+    'pt_pin': '',
 }
 
 cookies2 = {}   # 如果有其它账号，还需要将cookies2填写进 下面的cookieLists
